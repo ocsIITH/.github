@@ -8,7 +8,7 @@ The OCS is the institute’s dedicated **placement and internship cell**, servin
 
 ## 📁 Repositories
 
-All repositories under this organization are **private**, as they contain sensitive internal tools, data pipelines and automation systems critical to the placement process.
+All repositories under this organization are **private** for obvious reason.
 
 ---
 
