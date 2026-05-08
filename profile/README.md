@@ -36,8 +36,8 @@ Indian Institute of Technology Hyderabad
 ### 🔹 Managers
 | Name     | GitHub |
 |----------|--------|
-| Karan  | [bhaskaraa45](https://github.com/jimmy2683) |
-| Kaushal   | [dhawalz9](https://github.com/KaushalMorankar) |
+| Karan  | [jimmy2683](https://github.com/jimmy2683) |
+| Kaushal   | [KaushalMorankar](https://github.com/KaushalMorankar) |
 
 ### 🔸 Coordinators
 | Name      | GitHub |
